@@ -84,9 +84,3 @@ University of Georgia
 ### Publications {#publications}
 
 Please see Google Scholar profile: [http://goo.gl/VTKrzv](http://goo.gl/VTKrzv)
-
------
-
-### Footer {#footer}
-
-Karl Gyllstrom -- [karl.gyllstrom@gmail.com](karl.gyllstrom@gmail.com) -- (919) 636-3482
