@@ -14,6 +14,7 @@ $(OUTPUT):
 	mkdir $(OUTPUT)
 
 $(CC):
+	which wkhtmltopdf || exit
 	curl -L -O https://github.com/there4/markdown-resume/raw/master/bin/md2resume && chmod 700 $(CC)
 
 read: $(OUTPUT)/$(OBJ).pdf
