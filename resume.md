@@ -6,9 +6,9 @@
 
 ------
 
-### Profile {#profile}
+### Mission {#mission}
 
-Applying research and software engineering experience to build novel search and recommendation technologies.
+Combine science and code to help the world connect.
 
 ### Experience {#experience}
 
