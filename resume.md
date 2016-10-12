@@ -8,7 +8,7 @@
 
 ### Mission {#mission}
 
-Combine science and code to help the world connect.
+Combine science and code to help connect the world.
 
 ### Experience {#experience}
 
