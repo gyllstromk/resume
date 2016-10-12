@@ -12,9 +12,13 @@ Combine science and code to help connect the world.
 
 ### Experience {#experience}
 
+Facebook
+: *Software Engineer*
+  __October 2016+__
+
 Amazon
 : *Software engineer*
-  __2014-current__
+  __2014-October 2016__
   Drove efforts enabling product search and recommendations via visual attributes in clothing shopping experiences, including search-by-color and visually-similar product recommendations.
 
   Scaled computer vision/machine learning similarity algorithm to 100,000,000s of products.
@@ -23,7 +27,7 @@ Amazon
 
   Conducted numerous A/B experiments for new, user-facing product recommendation interfaces.
 
-  [Technologies used]: Elastic MapReduce, Python
+  <!-- [Technologies used]: Elastic MapReduce, Python -->
 
 Anatas
 : *Senior Software Engineer*
