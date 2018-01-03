@@ -77,11 +77,9 @@ IBM
 
 University of North Carolina at Chapel Hill
 : *PhD, Masters; Computer Science*
-  __2002-2009__ 
 
 University of Georgia
 : *BS, Computer Science*
-  __1998-2002__
 
 ------
 
